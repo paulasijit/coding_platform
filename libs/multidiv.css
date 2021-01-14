@@ -1,0 +1,30 @@
+
+.small {
+    width: 20%;
+    border: 2px solid gray;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 4px;
+}
+.small > div {
+    background:rgb(222, 222, 224);
+    height:200px;
+}
+
+.smallSocial {
+    width: 10%;
+    border: 2px solid gray;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 4px;
+}
+.smallSocial > div {
+    background:rgb(196, 196, 197);
+    height:100px;
+}
