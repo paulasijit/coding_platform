@@ -8,7 +8,7 @@
 * Make sure to write rules for firewall as someone code can take over your comiler server machine with injected code!
 
 #### Step 2: Install all the languages
-* Make sure all the language is compiling in your server
+* Make sure all the languages are compiling in your server
 
 #### Step 3: Admin Registration
 * To set exam and question use admin portal 
