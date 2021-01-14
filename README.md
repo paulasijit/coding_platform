@@ -444,7 +444,7 @@ if($num_row>0){
 ### My Profiles
 * [@twitter](https://twitter.com/asijit_paul)
 * [@facebook](https://www.facebook.com/asijit.paul/)
-* [@instagram](https://www.instagram/heyasijit)
+* [@instagram](https://www.instagram.com/heyasijit)
 * Currently working at [MapUp.Ai](https://mapup.ai/)
 
 ## License
