@@ -453,7 +453,7 @@ if($num_row>0){
 * [@instagram](https://www.instagram.com/#)
 
 ## License
-ISC License (ISC). Copyright 2021 &copy;ASIJIT PAUL. https://www.linkedin.com/in/asijit-paul-2142881a2/
+ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/asijit-paul-2142881a2/),[SWAGATA GALUI]().
 
 Permission to use, copy, modify, and/or distribute this software for any purpose without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
