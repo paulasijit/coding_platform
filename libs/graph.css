@@ -1,0 +1,13 @@
+.graph {
+    width: 100%;
+    border: 2px solid gray;
+    display:inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 4px;
+}
+.graph > div{
+    background:rgb(222, 222, 224);
+    height:300px;
+
+}
