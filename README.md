@@ -441,11 +441,16 @@ if($num_row>0){
 * commit it and make pull request
 * add me as a reviewer
 
-### My Profiles
+### Developers Profiles
+* `Asijit Paul`
 * [@twitter](https://twitter.com/asijit_paul)
 * [@facebook](https://www.facebook.com/asijit.paul/)
 * [@instagram](https://www.instagram.com/heyasijit)
 * Currently working at [MapUp.Ai](https://mapup.ai/)
+* `Swagata Galui`
+* [@twitter](https://twitter.com/#)
+* [@facebook](https://www.facebook.com/#)
+* [@instagram](https://www.instagram.com/#)
 
 ## License
 ISC License (ISC). Copyright 2021 &copy;ASIJIT PAUL. https://www.linkedin.com/in/asijit-paul-2142881a2/
