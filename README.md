@@ -1,5 +1,9 @@
 # [CODING EXAM PORTAL](https://www.linkedin.com/in/asijit-paul-2142881a2/)
 
+![issues](https://img.shields.io/github/issues/paulasijit/coding_platform)
+![forks](https://img.shields.io/github/forks/paulasijit/coding_platform)
+![stars](https://img.shields.io/github/stars/paulasijit/coding_platform)
+
 ### Clone the code or fork it to your local machine
 #### Step 1: Host the website
 * Upload all the files except the folder `code-judge-compiler` inside `./compiler/`
