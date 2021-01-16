@@ -453,11 +453,15 @@ if($num_row>0){
 * Currently working at [MapUp.Ai](https://mapup.ai/)
 * `Swagata Galui`
 * [@twitter](https://twitter.com/#)
-* [@facebook](https://www.facebook.com/#)
-* [@instagram](https://www.instagram.com/#)
+* [@facebook](https://www.facebook.com/100010100940151)
+* [@instagram](https://www.instagram.com/joy_galui)
+* `Rajib Koley`
+* [@twitter](https://twitter.com/#)
+* [@facebook](https://www.facebook.com/100008749774112)
+* [@instagram](https://www.instagram.com/rajib_koley_)
 
 ## License
-ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/asijit-paul-2142881a2/),[SWAGATA GALUI]().
+ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/asijit-paul-2142881a2/), [SWAGATA GALUI](), [RAJIB KOLEY]().
 
 Permission to use, copy, modify, and/or distribute this software for any purpose without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
