@@ -450,16 +450,7 @@ if($num_row>0){
 * [@twitter](https://twitter.com/asijit_paul)
 * [@facebook](https://www.facebook.com/asijit.paul/)
 * [@instagram](https://www.instagram.com/heyasijit)
-* Currently working at [MapUp.Ai](https://mapup.ai/)
-* `Swagata Galui`
-* [@twitter](https://twitter.com/#)
-* [@facebook](https://www.facebook.com/100010100940151)
-* [@instagram](https://www.instagram.com/joy_galui)
-* `Rajib Koley`
-* [@twitter](https://twitter.com/#)
-* [@facebook](https://www.facebook.com/100008749774112)
-* [@instagram](https://www.instagram.com/rajib_koley_)
-
+* Currently working at [PwC SDC Kolkata](https://www.pwc.in/sdc.html)
 ## License
 ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/asijit-paul-2142881a2/), [SWAGATA GALUI](), [RAJIB KOLEY](https://www.linkedin.com/in/rajib-ratan-koley/).
 
