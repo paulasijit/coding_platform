@@ -452,7 +452,7 @@ if($num_row>0){
 * [@instagram](https://www.instagram.com/heyasijit)
 * Currently working at [PwC SDC Kolkata](https://www.pwc.in/sdc.html)
 ## License
-ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/asijit-paul-2142881a2/), [SWAGATA GALUI](), [RAJIB KOLEY](https://www.linkedin.com/in/rajib-ratan-koley/).
+ISC License (ISC). Copyright 2021 &copy;[ASIJIT PAUL](https://www.linkedin.com/in/paulasijit/).
 
 Permission to use, copy, modify, and/or distribute this software for any purpose without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
